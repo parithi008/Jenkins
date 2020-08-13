@@ -2,4 +2,4 @@
 echo "the script is from github portal"
 NUMBER=$(($NUM1 + $NUM2))
 echo "$NUMBER"
-echo "Script completed Successfully in August"
+echo "Script completed Successfully"
